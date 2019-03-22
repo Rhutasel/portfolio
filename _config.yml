@@ -58,13 +58,13 @@ projects: true
 # add your projects here
 project-list:
     Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
+        name: Astro Anime
+        description: Anime Review Website designed & developed by my classmate & I.
+        url: 
     World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
+        name: HyperLynx Website
+        description: Worked with Web Page Performance for school club blog page.
+        url: 
     Tweeter:
         name: Tweeter
         description: A Twitter inspired web application built with Angular 5
