@@ -1,33 +1,32 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Logan Rhutasel
+bio: Web Developer | Web Designer
 
-description: Eve Adam's Personal Website
+description: Logan Rhutasel's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://rhutasel.github.io
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/rhutasel/
+github: https://github.com/Rhutasel
+email: loganrhutasel@gmail.com
 # google: mygoogle
-# instagram: myinstagram
+instagram: https://www.instagram.com/rhutasel/
 # pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
+reddit: SoloDoloed
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
@@ -45,14 +44,12 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
+    - HTML
+    - CSS
+    - Responsive (Mobile First)   
     - Git    
+    - Adobe Creative Suite
+    - Sketch App
 
 # do you want to display a projects section? true or false
 projects: true
